@@ -23,7 +23,7 @@ body
 	min-height: calc(100vh - 70px);
 	padding-top: 250px;
 	padding-bottom: 250px;
-    background-image: url(../images/ziemniaki.jpg);
+    background: url(../images/ziemniaki.jpg) center/cover no-repeat;
     background-attachment: fixed;
 	color: #fff;
 	text-shadow: 0 0 15px rgba(0, 0, 0, .3);
